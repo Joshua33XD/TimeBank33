@@ -1,0 +1,10 @@
+{
+  "description": "Connect with a community to exchange skills and services using time as currency, enabling collaborative help without money based on trust and reputation.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
